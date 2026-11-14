@@ -1,0 +1,2 @@
+# Keep dependency definitions in pyproject.toml.
+-e .
